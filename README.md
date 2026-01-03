@@ -40,9 +40,11 @@ use o comando, em modo administrador:
 
 ### Sistema Operacional Linux (Pc, Raspberry e demais embarcados compatíveis)
 - Versão utilizando a biblioteca __aSound__ da biblioteca __ALSA__
+- 
+![rrr1](https://github.com/PedrodeLima/DSP-AUDIO-OSCILADOR/blob/main/tela3.png)
 
 __As Biliotecas DirectX, WaveOut e aSound são usadas apenas para a transmissão do sinal para o dispositivo de áudio. Essas 3 bibliotecas são dos sistemas operacionais e não pertencem a terceiros.__
-__Todo o processamento DSP e modulação feito por algoritmos de minha autoria. não há dependências a outras bibliotecas de terceiros.__
+__Todo o processamento DSP e modulação feito por algoritmos é de minha autoria. não há dependências a outras bibliotecas de terceiros.__
 
 ### Contato para acquisição / compra dos códigos fonte:
 __PedroLFreire2@hotmail.com ou SnesFanRemix@gmail.com__
