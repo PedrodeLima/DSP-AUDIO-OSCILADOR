@@ -1,3 +1,4 @@
+
 # Projeto demonstração Osciladores e Envelope ADSR
 ## **(c) 2026 Pedro de Lima Freire, Analista de Sistemas*
 
@@ -16,10 +17,12 @@
      - Triângulo
      - Serra ou Serrote
      - Chiado
-### Dependência para o teste
-biblioteca wrapper directx8 para VB6
+
+![rrr1](https://github.com/PedrodeLima/DSP-AUDIO-OSCILADOR/blob/main/tela.png)
+### INSTALAR DLL binárias Windows vista em diante
+dll directx8 para VB6
 arquivo dx8vb.dll
-user o comando, em modo administrador:
+use o comando, em modo administrador:
 
 **Regsv32 dx8vb.dll**
 
