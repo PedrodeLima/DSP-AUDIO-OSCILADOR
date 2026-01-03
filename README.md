@@ -29,7 +29,7 @@ use o comando, em modo administrador:
 ## Código-Fonte
 ### Linguagem VB6
 ### Sistema Operacional Windows.
-- Versão com uso de DirectX, que é a mesma disponibilizada no teste.
+- Versão com uso de DirectX, que é a mesma disponibilizada no teste. (pro seu executável/binário funcionar, é preciso estar registrada a dll dx8vb.dll)
 - Versão utilizando a API WIN32 da família __WaveOut__
 - Preço: R$ 6500
 ![rrr1](https://github.com/PedrodeLima/DSP-AUDIO-OSCILADOR/blob/main/tela2.png)
