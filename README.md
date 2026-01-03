@@ -42,4 +42,4 @@ __As Biliotecas DirectX, WaveOut e aSound são usadas apenas para a transmissão
 __Todo o processamento DSP e modulação feito por algoritmos de minha autoria. não há dependências a outras bibliotecas de terceiros.__
 
 ### Contato para acquisição / compra dos códigos fonte:
-__PedroLFreire2@hotmail.com ou SnesFanRemix@gmamil.com__
+__PedroLFreire2@hotmail.com ou SnesFanRemix@gamil.com__
