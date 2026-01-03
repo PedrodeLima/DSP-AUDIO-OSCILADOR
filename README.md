@@ -48,3 +48,5 @@ __Todo o processamento DSP e modulação feito por algoritmos é de minha autori
 
 ### Contato para acquisição / compra dos códigos fonte:
 __PedroLFreire2@hotmail.com ou SnesFanRemix@gmail.com__
+
+[![ver  vídeo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png?20240107144800)](https://www.youtube.com/watch?v=QpN9ca3yg_4&t=14s)
