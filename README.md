@@ -6,14 +6,14 @@
 - 16-bits
 - 44100hz
 - 2 canais ( estéreo )
-## Recursos
-- Oscila em frequências entre 1 hz a 37585 hz ( notas -70 a 110 )
-- As 4 fases ADSR de envelopamento ( Attack,Decay, Sustain, Release )
+## Algoritmos
+- Oscilador de frequências entre 1 hz a 37585 hz ( notas -70 a 110 )
+- Modula as 4 fases ADSR de envelopamento ( Attack,Decay, Sustain, Release )
 - Pitch
 - Pan , Balanceamento do sinal entre os 2 lados do fone.
-- Formatos de onda:
+- Modula o sinal de acordo com o formatos de onda:
      - Seno
-     - Qaudrada
+     - Quadrada
      - Triângulo
      - Serra ou Serrote
      - Chiado
@@ -32,7 +32,7 @@ use o comando, em modo administrador:
 - Versão com uso de DirectX, que é a mesma disponibilizada no teste.
 - Versão utilizando a API WIN32 da família __WaveOut__
 - Preço: R$ 6500
-
+![rrr1](https://github.com/PedrodeLima/DSP-AUDIO-OSCILADOR/blob/main/tela2.png)
 ### Linguagem C+
 ### Sistema Operacional Windows
 - Versão utilizando a API WIN32 da família __WaveOut__
