@@ -33,10 +33,10 @@ use o comando, em modo administrador:
 - Versão utilizando a API WIN32 da família __WaveOut__
 - Preço: R$ 6500
 ![rrr1](https://github.com/PedrodeLima/DSP-AUDIO-OSCILADOR/blob/main/tela2.png)
-### Linguagem C+
+### Linguagem C+ (Ainda em desenvolvimento)
 ### Sistema Operacional Windows
 - Versão utilizando a API WIN32 da família __WaveOut__
-- Preço: R$ 5500
+- Preço: R$ 5500 (obs: código ainda em conclusão, pois a adaptação do vb6 para o c+ é mais complexa)
 
 ### Sistema Operacional Linux (Pc, Raspberry e demais embarcados compatíveis)
 - Versão utilizando a biblioteca __aSound__ da biblioteca __ALSA__
